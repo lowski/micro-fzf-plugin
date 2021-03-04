@@ -6,6 +6,13 @@
         "Tags": ["fzf"],
         "Versions": [
             {
+                "Version": "2.0.0",
+                "Url": "https://github.com/lowski/micro-fzf-plugin/releases/download/v2.0.0/fzf-2.0.0.zip",
+                "Require": {
+                    "micro": ">=2.0.0-1"
+                }
+            },
+            {
                 "Version": "1.1.1",
                 "Url": "https://github.com/micro-editor/updated-plugins/releases/download/v1.0.0/fzf-1.1.1.zip",
                 "Require": {
@@ -17,6 +24,13 @@
                 "Url": "https://github.com/micro-editor/updated-plugins/releases/download/v1.0.0/fzf-1.1.0.zip",
                 "Require": {
                     "micro": ">=2.0.0-1"
+                }
+            },
+            {
+                "Version": "1.0.5",
+                "Url": "https://github.com/samdmarshall/micro-fzf-plugin/archive/v1.0.5.zip",
+                "Require": {
+                    "micro": ">=1.1.2"
                 }
             }
         ]
